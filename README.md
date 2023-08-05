@@ -1,5 +1,4 @@
 # Row_Health_Data_Analysis
-This portfolio project analyzes Row Health Data, analyzing campaigns, claims and customer tables I am able to assess the successes of customer acquisition and campaign impression across states and platforms.
 
 ## Excel Insight Overview
 This excel analysis focused on the success of campaigns, categorically and across platform, in order to observe the success of an initiative through metrics of sign-up rate, relative cost of per sign up, click-through rate, and cost of impression.
