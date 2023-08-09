@@ -106,7 +106,7 @@ This SQL analysis focuses on answering stakeholder questions about the sales of 
 Improve Data Quality 
 1. Include revenue data to calculate campaign ROI
 2. Include data on campaign dates to segment by time and seasonality
-3. Include customer-specific dimensions (plan, state, signup platform) to further tailor campaign recommendations
+3. Include customer-specific dimensions (plan, state, demographics, signup platform) to further tailor campaign recommendations
 
 Improve Marketing Strategies
 1. Investigate how campaign run-time affects average cost and signup rates
